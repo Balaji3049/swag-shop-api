@@ -2,3 +2,6 @@
 ## Download your Swag Shop API follow along files here
 
 Check out lesson 1.3 branch for the code along files. 
+
+To run the server 
+nodemon server.js
